@@ -1,0 +1,45 @@
+.well {
+	 padding: 30px;
+}
+#logo .well, #header-content .well {
+	height: 75px;
+}
+#featured .product .well {
+	padding: 0px;
+}
+#featured .product .well .image-wrapper {
+	height: 260px;
+	overflow: hidden;
+}
+#featured .product img, .book_details .image-wrapper img {
+	width: 100%;
+}
+.book_details {
+	padding-bottom: 20px;
+}
+
+#sidebar .well{
+	height: 520px;
+}
+#footer .menu-footer .well {
+	height: 300px;
+}
+#logo, #header-content, #featured .product, #sidebar,
+#footer .menu-footer {
+	margin-bottom: 10px;
+}
+.caption .book_title {
+	height: 55px;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+.product .btn {
+	width: 80px;
+	margin: 0px 1px 4px 1px;
+}
+.pagesBlock ul.pagination {
+	margin-left: 45%;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
